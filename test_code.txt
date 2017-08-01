@@ -1,0 +1,15 @@
+a:=50
+a:= a+1
+z:= a
+a:= a-1
+if z>a
+then
+z:= 1000
+    if z==1001
+    then
+    a:=2000
+    else
+    a:=3000
+    fi
+
+fi
